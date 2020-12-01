@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+}
+
+body {
+    
+}
+
+header {
+    width: 100%;
+    background-color: black;
+    height: 5rem;
+    border-bottom: 1px solid red;
+    color: white;
+
+}
+
+h1 {
+    margin-left: 3rem;
+}
+
+nav {
+    float: right;
+    margin-right: 3rem;
+}
+
+li {
+    display: inline-block;
+    margin-left: 3rem;
+    text-decoration: underline;
+}
+
+.about {
+    margin: 3rem;
+}
+
+.projects {
+    margin: 3rem;
+}
